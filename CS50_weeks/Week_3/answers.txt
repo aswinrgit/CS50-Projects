@@ -1,0 +1,13 @@
+sort1 uses: Bubble sort
+
+How do you know?: It checks the sorted text along with merge sort. But, takes significantly more time on random text to merge sort
+
+sort2 uses: Merge Sort
+
+How do you know?: Consistently performs the fastest across all input texts
+
+sort3 uses: Selection sort
+
+How do you know?: The only program to take considerable amount of time on a sorted text
+
+// For the given hidden example code and found with the function time ./program
